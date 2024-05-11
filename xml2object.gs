@@ -28,5 +28,3 @@ const convertXmlToObject = (xml) => {
   
   return res;
 };
-
-
